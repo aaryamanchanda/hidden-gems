@@ -6,6 +6,7 @@ Hidden Gems Local Guide is a community-driven travel platform designed to help u
 
 ## ⚠️ Problem
 Modern travel platforms are saturated with paid listings, sponsored content, and highly commercialized "hotspots." Authentic, local-loved places — from secret viewpoints to tucked-away cafes — often lack the marketing budget to be discovered, resulting in travelers having generic, one-size-fits-all experiences.
+
 ## 💡 Solution
 A platform built purely around organic discovery. Hidden Gems Local Guide provides a zero-sponsored map experience where every location is submitted by a local. To maintain quality and combat spam, the platform uses an intelligent AI validation layer to detect misleading content before it reaches the community.
 
