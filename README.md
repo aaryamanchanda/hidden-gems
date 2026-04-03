@@ -70,7 +70,7 @@ A platform built purely around organic discovery. Hidden Gems Local Guide provid
 - **Offline Maps:** Downloadable regions for traveling without internet access.
 
 ## 🤝 Team
-- **Frontend** [Aarya Manchanda]
-- **Design** [Pratul Kashyap]
-- **Backend** [Saumya Agarwal]
-- **AI Integration:** [Manthan Bobade]
+- **Backend** [Aarya Manchanda]
+- **Frontend** [Pratul Kashyap]
+- **AI Integration** [Saumya Agarwal]
+- **Database & APIs** [Manthan Bobade]
